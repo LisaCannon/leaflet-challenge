@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#config api file
+C:\Users\Lisa\Documents\DataBootCamp\leaflet-challenge\static\js\config.js
+
 # C extensions
 *.so
 
